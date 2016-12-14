@@ -9,7 +9,7 @@ https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-
 
 ## Run
 
-./start.sh
+* ./start.sh
 
 ## What I learned
 
@@ -20,3 +20,4 @@ https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-
 * renderToString from react dom server
 * boopstrap 4
 * how to define different routes and default route
+* Check out this react router tutorial: https://www.youtube.com/watch?v=eofpZPRUnP8
